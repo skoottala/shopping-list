@@ -7,5 +7,7 @@
                                                  
 
 # Welcome to ENTR-451
-
+- Bacon
+- Spinach
+- Fruits
 This is an example of a GitHub repository.
