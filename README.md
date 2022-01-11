@@ -11,4 +11,6 @@
 - Spinach
 - Fruits
 - Bread
+- Protein powder
+- Quinoa
 This is an example of a GitHub repository.
